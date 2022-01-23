@@ -27,11 +27,6 @@ button:focus {
     width: 20%;
     height: 100vh;
 }
-
-.sidebar--note {
-    /* display: flex; */
-}
-
 .sidebar--header {
     display: flex;
     justify-content: space-around;
